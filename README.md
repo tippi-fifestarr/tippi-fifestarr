@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tippi-fifestarr.  
+- 👋 Hi, I’m @tippi-fifestarr.  Teamwork makes the Dreamwork so check out [Ceptor Club](https://github.com/ceptor-club), my main team these days!
 - 👀 I’m interested in the intersection between **DnD**, **Machine Learning**, and **Hackathons**.
 - 🌱 I’m currently learning **Stable Diffusion** and **Dreambooth**, **Product Management**, **Game Mastery**.
 - 💞️ I’m looking to collaborate on something meaningful (public goods, unique ideas, or any combo of the keywords above).
